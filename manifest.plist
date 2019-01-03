@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://dapp-net.oss-cn-hangzhou.aliyuncs.com/AnntokenWallet.ipa</string>
+                    <string>https://wuxiaodong1986.github.io/myipa/AnntokenWallet.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>http://dapp-net.oss-cn-hangzhou.aliyuncs.com/57.png</string>
+                    <string>https://wuxiaodong1986.github.io/myipa/57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>http://dapp-net.oss-cn-hangzhou.aliyuncs.com/512.png</string>
+                    <string>https://wuxiaodong1986.github.io/myipa/512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
